@@ -1,16 +1,15 @@
-# task_app
+# A Transaction App using Flutter
 
-A new Flutter project.
+&nbsp;&nbsp;Show some ❤️ and ⭐ the repo! 
+<br />
+<br />
 
-## Getting Started
+## Download App
+<a href="https://play.google.com/store/apps/details?id=com.malik.task_app"><img src="https://play.google.com/intl/en_us/badges/static/images/badges/en_badge_web_generic.png" width="200"></img></a>
 
-This project is a starting point for a Flutter application.
+<br />
+<br />
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+1               |  2               | 3               |  4
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](https://github.com/AbdulMalikDev/FlutterTransactionApp/blob/master/1.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterTransactionApp/blob/master/2.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterTransactionApp/blob/master/3.png?raw=true)|![](https://github.com/AbdulMalikDev/FlutterTransactionApp/blob/master/4.png?raw=true)|
